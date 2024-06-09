@@ -1,0 +1,9 @@
+.display {
+  margin: 10px;
+  width: 175px;
+  font-size: 25px;
+  background-color: rgba(250, 235, 215, 0.893);
+}
+.inputBg {
+  background-color: turquoise;
+}
